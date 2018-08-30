@@ -1,0 +1,38 @@
+html,body{
+	height: 100%;
+}
+
+@media (min-width: 50px) { 
+	video{
+		width: 320px;
+		height: 240px;
+	}
+}
+
+@media (min-width: 576px) { 
+	video{
+		width: 566px;
+		height: 425px;
+	}
+}
+
+@media (min-width: 768px) { 
+	video{
+		width: 758px;
+		height: 569px;
+	}
+}
+
+@media (min-width: 992px) { 
+	video{
+		width: 982px;
+		height: 737px;
+	}
+}
+
+@media (min-width: 1200px) { 
+	video{
+		width: 1190px;
+		height: 893px;
+	}
+}
